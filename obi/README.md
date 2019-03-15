@@ -4,36 +4,31 @@
 This repo will solve some navigation problems in the OBA.
 ![Demo](https://github.com/MartijnReeuwijk/project-1-1819/blob/master/src/demo.png)
 
-### Table of contents
+# Performance
 
-## Getting Started
+### Js
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+- [] Maak de JS serverside.
+- [] compress the JS.
 
-## Prerequisites
+### Images
 
-You will need the following things properly installed on your computer.
+- [x] Ik gebruik svg's op belangrijke data
+- [] Maak de Map een svg en bewerkbaar
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/) (with npm)
-- [Google Chrome](https://google.com/chrome/)
+### Tab
 
-## Installation
+- [x] Tab navigation werkt door de buttons.
 
-- `git@github.com:MartijnReeuwijk/project-1-1819.git`
-- `cd OpenIntel`
-- `npm install`
+### text to speech
 
-### Description
+- [x] De site kan makelijk worden voor
+- [] Hij leest de images ook waardoor je dubble text/speech krijgt.
 
-This repo will try and make the OBA navigation better with the use of Svg maps and the location of books based on number. A map will be made with the corresponding studie and books.
-This will improve the flow of students in the OBA.
+### Mobile
 
-Goal of the app: The goal is to help student find their perfect working space, close to their field of studie. This will impove flow of the students and give the OBA insight in the studies that visit the libary the most.
-
-### Requirements from Oba
-
-This application cannot work with the current data in the API, since it doesn't have info about the the floors and arrangement of books.
+- [x] Het design is voor mobile / tablets.
+- [] Moet de functions nog testen op de device labs.
 
 #### Data objects
 
